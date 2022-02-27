@@ -1,15 +1,25 @@
 **Indicators of Compromise**
+            	                                                                          
+RCDATA_DRV_X64 (ms-compressed )  	
+MD5- a952e288a1ead66490b3275a807f52e5	
+SHA1- a952e288a1ead66490b3275a807f52e5	
+SHA2- e5f3ef69a534260e899a36cec459440dc572388defd8f1d98760d31c700f42d5
+RCDATA_DRV_X86 (ms-compressed ) 
+MD5- 231b3385ac17e41c5bb1b1fcb59599c4	
+SHA1- 231b3385ac17e41c5bb1b1fcb59599c4	
+SHA2- b01e0c6ac0b8bcde145ab7b68cf246deea9402fa7ea3aede7105f7051fe240c1
+RCDATA_DRV_XP_X64 (ms-compressed )
+MD5- 095a1678021b034903c85dd5acb447ad	
+SHA1- 095a1678021b034903c85dd5acb447ad	
+SHA2- b6f2e008967c5527337448d768f2332d14b92de22a1279fd4d91000bb3d4a0fd
+RCDATA_DRV_XP_X86 (ms-compressed )	
+MD5- eb845b7a16ed82bd248e395d9852f467	
+SHA1- eb845b7a16ed82bd248e395d9852f467	
+SHA2- fd7eacc2f87aceac865b0aa97a50503d44b799f27737e009f91f3c281233c17d
 
-
-ms-compressed             	MD5	                               SHA1	                                           SHA2
-RCDATA_DRV_X64  	a952e288a1ead66490b3275a807f52e5	a952e288a1ead66490b3275a807f52e5	e5f3ef69a534260e899a36cec459440dc572388defd8f1d98760d31c700f42d5
-RCDATA_DRV_X86 	231b3385ac17e41c5bb1b1fcb59599c4	231b3385ac17e41c5bb1b1fcb59599c4	b01e0c6ac0b8bcde145ab7b68cf246deea9402fa7ea3aede7105f7051fe240c1
-RCDATA_DRV_XP_X64 	095a1678021b034903c85dd5acb447ad	095a1678021b034903c85dd5acb447ad	b6f2e008967c5527337448d768f2332d14b92de22a1279fd4d91000bb3d4a0fd
-RCDATA_DRV_XP_X86 	eb845b7a16ed82bd248e395d9852f467	eb845b7a16ed82bd248e395d9852f467	fd7eacc2f87aceac865b0aa97a50503d44b799f27737e009f91f3c281233c17d
-
-HermeticWiper                     	SHA1
-WIN32 EXE	         912342f1c840a42f6b74132f8a7c4ffe7d40fb77
-WIN32 EXE          61b25d11392172e587d8da3045812a66c3385451
+HermeticWiper                     	
+WIN32 EXE	        SHA1-  912342f1c840a42f6b74132f8a7c4ffe7d40fb77
+WIN32 EXE         SHA1 - 61b25d11392172e587d8da3045812a66c3385451
 
 Registry key modified:  SYSTEM\CurrentControlSet\Control\CrashControl CrashDumpEnabled key to 0
 File: Win32/KillDisk.NCV Driver: empntdrv.sys
