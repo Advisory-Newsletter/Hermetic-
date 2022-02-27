@@ -88,6 +88,7 @@ fd7eacc2f87aceac865b0aa97a50503d44b799f27737e009f91f3c281233c17d
 
 **References**
 1) https://www.cisa.gov/uscert/ncas/alerts/aa22-057a
-2) https://www.zscaler.com/blogs/security-research/hermeticwiper-resurgence-targeted-attacks-ukraine
-3) https://www.cisa.gov/uscert/shields-technical-guidance
-4) https://www.mandiant.com/resources/insights/ukraine-crisis-resource-center
+2) https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ukraine-wiper-malware-russia
+3) https://www.zscaler.com/blogs/security-research/hermeticwiper-resurgence-targeted-attacks-ukraine
+4) https://www.cisa.gov/uscert/shields-technical-guidance
+5) https://www.mandiant.com/resources/insights/ukraine-crisis-resource-center
